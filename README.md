@@ -49,9 +49,11 @@ The dataset contained one unnecessary first row, which was handled using:
 
 ```python
 pd.read_csv("apple_5yr_one.csv", skiprows=1)
-````md
+```
 
-# Technologies Used
+---
+
+## Technologies Used
 
 The following tools and libraries were used in this project:
 
